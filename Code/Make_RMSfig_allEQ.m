@@ -85,6 +85,9 @@ P = open('/Users/llajoie/Documents/CSM_PhD/Kumamoto/Data/SlipProfiles/Palu_plot_
     cHM = [0 204 255]/256;
     cL = 'r'; 
     cP = [153 204 000]/256;
+    
+    
+    %neww cmment.
 
 
 figure(1)
